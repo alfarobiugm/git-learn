@@ -1,0 +1,8 @@
+#include <iostream>
+using namespace std;
+
+int main () {
+cout << "HAI SAYANG" << endl;
+cout << "HAI JUGA SAYANG" << endl;
+return 0;
+}
